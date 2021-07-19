@@ -1,9 +1,13 @@
-Coffee 2.99 150cal
-Donots 4.99 1500cal
+Coffee 2.99 150 cal
+Donots 4.99 1500 cal
 
-Mocha      3.15 200cal
-Expresso   3.25 250cal
+Mocha      3.15 200 cal
+Expresso   3.25 250 cal
 
-Ice Coffee 2.88 300cal
+Ice Coffee 2.88 300 cal
 
 Lunch Menu: 
+Butter Chicken 10.99
+               1200 cal
+Polo           15.99
+			   2000 cal
