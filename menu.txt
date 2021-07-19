@@ -11,3 +11,13 @@ Butter Chicken 10.99
                1200 cal
 Polo           15.99
 			   2000 cal
+Burger         5.99
+			   10000 cal
+Veggie Bowl    5.89
+			   10 cal
+Burrito        3.99
+			   500 cal
+Doner          8.99
+			   400 cal
+Kebob          9.99
+			   500 cal
