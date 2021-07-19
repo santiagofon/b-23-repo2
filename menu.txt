@@ -21,3 +21,9 @@ Doner          8.99
 			   400 cal
 Kebob          9.99
 			   500 cal
+Steak 		   13.99
+			   600 cal
+Sandwitch      4.99
+			   400 cal
+
+
