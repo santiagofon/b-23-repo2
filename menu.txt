@@ -25,5 +25,8 @@ Steak 		   13.99
 			   600 cal
 Sandwitch      4.99
 			   400 cal
-
+Pizza          9.99
+               3000 cal
+Soup           3.99
+			   5 cal
 
